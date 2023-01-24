@@ -1,0 +1,7 @@
+echo "# Image-classification-with-ML" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Harbim001/Image-classification-with-ML.git
+git push -u origin main
